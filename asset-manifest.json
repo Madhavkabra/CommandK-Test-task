@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CommandK-Test-task/static/css/main.6876bc7a.css",
+    "main.js": "/CommandK-Test-task/static/js/main.5b95a353.js",
+    "index.html": "/CommandK-Test-task/index.html",
+    "main.6876bc7a.css.map": "/CommandK-Test-task/static/css/main.6876bc7a.css.map",
+    "main.5b95a353.js.map": "/CommandK-Test-task/static/js/main.5b95a353.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6876bc7a.css",
+    "static/js/main.5b95a353.js"
+  ]
+}
